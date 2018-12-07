@@ -1,0 +1,50 @@
+<annotation>
+	<folder>cars</folder>
+	<filename>WIN_20180312_07_30_09_Pro 58.jpg</filename>
+	<path>/home/raaeed2011/Desktop/my-images/cars/WIN_20180312_07_30_09_Pro 58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>113</ymin>
+			<xmax>994</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>245</ymin>
+			<xmax>369</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>229</ymin>
+			<xmax>199</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>
